@@ -15,6 +15,7 @@
     "liubin-test-npm-publish"
   ],
   "author": "hellonpm2018",
+  "repository": "https://github.com/hellogithub2014/npm-learn",
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
